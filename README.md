@@ -9,4 +9,6 @@ Please read the following instructions to run these notebook.
 
 * CS247_Graph_Embedding.ipynb: Contains the baseline's data processing pipeline followed by the section of user embedding (Node2Vec based). **Notice** To run this notebook, please use the data_new.csv in the input directory.
 
+* DNN.ipynb: Contains the DNN model we trained to predict the rating. **Notice** To run this notebook, please skip Data Preprocessing section and use data from https://drive.google.com/drive/folders/1tqpqtncbeefmbhz2UdOmm-1TXEvvnPYz?usp=sharing.
+
 * CNN and ONCF.ipynb: Contains the CNN and ONCF models we trained to predict the rating. **Notice** the notebook uses Colab to run and the data can only be imported from Google Drive. Please move the necessary files in the data folder to Google Drive to run the model.
